@@ -13,3 +13,4 @@ Getting the sqlite database from Colornote is the tricky part. There are 2 ways:
 - Download and run an Android emulator on your pc, like [Bluestacks](https://www.bluestacks.com/)
 - [Root the android emulator](https://appuals.com/root-bluestacks/) (It's very easy, you just switch a couple 0s to 1s in a text file)
 - Follow the above steps in the [If your phone is rooted](#if-your-phone-is-rooted) section
+- You can copy the file onto an accessible location like Downloads, and then use the bluestacks media manager to download it onto your computer
